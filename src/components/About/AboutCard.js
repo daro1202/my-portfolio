@@ -8,9 +8,9 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Daro Yamamoto </span>
-            from <span className="purple"> Ehime , Japan.</span>
-            <br />I am a  computer engineer in Shikoku University
+            Hi Everyone, I am <span className="purple">Daro </span>
+            from <span className="purple"> Wide World.</span>
+            <br />I am a  developer
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -33,7 +33,7 @@ function AboutCard() {
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Yamamoto</footer>
+          <footer className="blockquote-footer">Daro</footer>
         </blockquote>
       </Card.Body>
     </Card>
